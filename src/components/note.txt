@@ -1,0 +1,12 @@
+//Why we use Axios
+//there are four reasons to use axios in react js
+
+//1:axios library by default json me work karta hai or jo fetch api
+hota hai wo json me work nhi karta us ko hame json me parse karna hota hai
+
+//2:is me bht http methods hote hai jis ki help se hmm simple http request
+kar sakte hain
+
+//3:axios me only 1 then use hota hai and fetch me hmm 2 then ka use karte the.
+
+//4:is me hmm better error handling kar sakte hai. 
